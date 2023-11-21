@@ -27,7 +27,7 @@ ID+ 流水號 + " ObjList"。
 7. areaName：選區名稱
 8. committee：委員會
 9. onboardDate：到職日(西元年)
-10. degree：學歷
+ 10. degree：學歷
 11. tel：電話
 12. experience：經歷
 13. fax：傳真
